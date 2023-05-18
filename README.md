@@ -24,7 +24,7 @@ Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar i
 
 # ✔️ Herramientas y Lenguajes
 
-::MAKER FIGMA
+:maker FIGMA
 HTML5
 CSS3
 GIT
