@@ -43,6 +43,12 @@ Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar i
 
 
 
+![PaginaWeb2](https://github.com/j1t077/proyectoAntojo1/assets/96486397/7a639476-8dda-43d3-b785-e5e99b51b2b5)
+
+
+
+![PaginaWeb3](https://github.com/j1t077/proyectoAntojo1/assets/96486397/6fa96bf5-8d3c-4d91-a76b-06db289373f7)
+
 # Autores: 
 
 <li>Elena: https://github.com/Elenaadm</li>
