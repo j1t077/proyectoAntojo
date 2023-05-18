@@ -25,21 +25,21 @@ Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar i
 # ✔️ Herramientas y Lenguajes
 
 <li>FIGMA</li>
-HTML5
-CSS3
-GIT
-GIMP
-JIRA
-OPEN OFFICE
-FRAME BOX
-VISUAL STUDIO CODE
-HERRAMIENTAS DE RECORTE DE WINDOWS 10
-GOOGLE
+<li>HTML5</li>
+<li>CSS3</li>
+<li>GIT</li>
+<li>GIMP</li>
+<li>JIRA</li>
+<li>OPEN OFFICE</li>
+<li>FRAME BOX</li>
+<li>VISUAL STUDIO CODE</li>
+<li>HERRAMIENTAS DE RECORTE DE WINDOWS 10</li>
+<li>GOOGLE</li>
     
 
 
 # Autores: 
 
-Elena: https://github.com/Elenaadm
-Jorge: https://github.com/j1t077
-Anotnio: https://github.com/mcefen
+<li>Elena: https://github.com/Elenaadm</li>
+<li>Jorge: https://github.com/j1t077</li>
+<li>Anotnio: https://github.com/mcefen</li>
