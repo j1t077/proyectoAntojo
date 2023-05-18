@@ -22,6 +22,20 @@ Extras:
     Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar iconos por ejemplo). Se utilizará javascript para activar el icono deseado. Ejemplo: en la sección colocamos el emoji triste y el emoji feliz en estado apagado. Cuando hacemos click en uno de ellos cambiará a estado activo.
 
 
+✔️ Herramientas y Lenguajes
+
+    FIGMA
+    HTML5
+    CSS3
+    GIT
+    GIMP
+    JIRA
+    OPEN OFFICE
+    FRAME BOX
+    VISUAL STUDIO CODE
+    HERRAMIENTAS DE RECORTE DE WINDOWS 10
+    GOOGLE
+    
 
 
 Autores: 
@@ -29,4 +43,3 @@ Autores:
 Elena: https://github.com/Elenaadm
 Jorge: https://github.com/j1t077
 Anotnio: https://github.com/mcefen
-
