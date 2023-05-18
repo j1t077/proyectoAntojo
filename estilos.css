@@ -29,8 +29,8 @@ body {
   font-size: 60px;
   color: black;
   position: absolute;
-  margin-top: 10px;
-  margin-left: 300px;
+  margin-top: 40px;
+  margin-left: 450px;
   text-shadow: #181818 2px 0 10px;
   display: block;
 }
@@ -39,8 +39,8 @@ body {
   font-size: 20px;
   color: rgb(0, 0, 0);
   position: absolute;
-  margin-top: 70px;
-  margin-left: 300px;
+  margin-top: 100px;
+  margin-left: 450px;
   text-shadow: #181818 2px 0 10px;
 }
 
