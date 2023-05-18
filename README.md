@@ -24,17 +24,17 @@ Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar i
 
 ✔️ Herramientas y Lenguajes
 
-    FIGMA
-    HTML5
-    CSS3
-    GIT
-    GIMP
-    JIRA
-    OPEN OFFICE
-    FRAME BOX
-    VISUAL STUDIO CODE
-    HERRAMIENTAS DE RECORTE DE WINDOWS 10
-    GOOGLE
+ FIGMA
+ HTML5
+ CSS3
+ GIT
+ GIMP
+ JIRA
+ OPEN OFFICE
+ FRAME BOX
+ VISUAL STUDIO CODE
+ HERRAMIENTAS DE RECORTE DE WINDOWS 10
+ GOOGLE
     
 
 
