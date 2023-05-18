@@ -19,7 +19,7 @@ Un pie de página con el símbolo de copyright y el nombre del equipo
 
 Extras:
 
-    Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar iconos por ejemplo). Se utilizará javascript para activar el icono deseado. Ejemplo: en la sección colocamos el emoji triste y el emoji feliz en estado apagado. Cuando hacemos click en uno de ellos cambiará a estado activo.
+Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar iconos por ejemplo). Se utilizará javascript para activar el icono deseado. Ejemplo: en la sección colocamos el emoji triste y el emoji feliz en estado apagado. Cuando hacemos click en uno de ellos cambiará a estado activo.
 
 
 ✔️ Herramientas y Lenguajes
