@@ -49,6 +49,15 @@ body {
   height: 100%;
   display: flex;
   flex-direction: row;
+  margin: 20px;
+
+}
+
+.miembros p {
+  text-align: center;
+  font-family: arial;
+  font-size: 20px;
+  margin-top: -10px;
 }
 
 .miembro1 {
@@ -57,6 +66,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 20px;
 }
 
 .miembro2 {
@@ -65,6 +75,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 20px;
 }
 
 .miembro3 {
@@ -73,6 +84,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: 20px;
 }
 
 .miembro1 .jorge {
@@ -120,18 +132,19 @@ p {
 .herramientas{
   width: 100%;
   height: 100%;
-  margin-top: 65px;
+  margin-top: 85px;
   display: flex;
   flex-direction: row;
 }
 
 .tituloherra{
-  font-size: 45px;
+  font-size: 60px;
   color: black;
   position: absolute;
   text-shadow: #181818 2px 0 10px;
-  margin-left: 200px;
+  margin-left: 350px;
   margin-top: 15px;
+  align-items: center;
 }
 	
 
@@ -147,11 +160,10 @@ p {
   width: 200px;
   height: 200px;
   margin: 20px;
-  box-shadow: 2px 2px 5px blue;
+  box-shadow: 2px 2px 5px rgb(255, 136, 0);
   transition:all 0.5s ease-in-out;
 }
-
-.render{
+.css{
   flex: 1; /* los elementos flexibles tengan la misma longitud, independientemente de su contenido */
   -ms-flex: 1; /* hack para IE10 porque Mocosoft se salta los estandares*/
   display: flex;
@@ -159,7 +171,7 @@ p {
   align-items: center;
 }
 	
-.renderlogo{
+.css3logo{
   border-radius: 50%;
   width: 200px;
   height: 200px;
@@ -181,11 +193,45 @@ p {
   width: 200px;
   height: 200px;
   margin: 20px;
-  box-shadow: 2px 2px 5px blue;
+  box-shadow: 2px 2px 5px rgb(0, 81, 255);
   transition: all 0.4s ease-in-out;
 }
 
-.vsclogo:hover, .renderlogo:hover, .figmalogo:hover {
+.html5{
+  flex: 1; /* los elementos flexibles tengan la misma longitud, independientemente de su contenido */
+  -ms-flex: 1; /* hack para IE10 porque Mocosoft se salta los estandares*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.html5logo{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  box-shadow: 2px 2px 5px rgb(255, 153, 0);
+  transition: all 0.4s ease-in-out;
+}
+
+.github{
+  flex: 1; /* los elementos flexibles tengan la misma longitud, independientemente de su contenido */
+  -ms-flex: 1; /* hack para IE10 porque Mocosoft se salta los estandares*/
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.githublogo{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  box-shadow: 2px 2px 5px rgb(0, 0, 0);
+  transition: all 0.4s ease-in-out;
+}
+
+.vsclogo:hover, .css3logo:hover, .figmalogo:hover, .html5logo:hover, .githublogo:hover{
   filter: blur(5px);
   transition:all 0.5s ease-in-out;
 }
@@ -233,8 +279,8 @@ p {
 
 /* NO FUNCIONA. HABRIA QUE HACER MAS PRUEBAS */
 
-/*Estilos para móviles*/
-@media only screen and (max-width: 900px) {
+/*Estilos para mï¿½viles*/
+@media screen and (max-width: 900px) {
 
 .contenedor {
 	width: 100% !important;
