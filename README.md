@@ -35,6 +35,7 @@ Crear una sección que refleje el estado de ánimo del equipo (puedes utilizar i
 <li>VISUAL STUDIO CODE</li>
 <li>HERRAMIENTAS DE RECORTE DE WINDOWS 10</li>
 <li>GOOGLE</li>
+<li>W3 Schools</li>
 
 
 
