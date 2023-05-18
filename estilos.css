@@ -4,7 +4,7 @@ body {
   align-items: center;
   justify-content: center;
   margin: 0;
-  width: 100% !important; /*solucion 100% para el BODY */
+  width: 100%; /*solucion 100% para el BODY */
 }
 
 .contenedor {
@@ -19,10 +19,10 @@ body {
 
 .logo {
   position: absolute;
-  width: 100% !important; /*solucion 100% para el logo. Como el body tiene 100% el llogo ocupara lo mismo */
+  width: 100%; 
   height: 360px;
   display: block;
-  background: url(./imagenes/logo.jpg);
+  background: url(./imagenes/logo.jpg) no-repeat center center;
 }
 
 .cabecera h1 {
@@ -30,7 +30,7 @@ body {
   color: black;
   position: absolute;
   margin-top: 40px;
-  margin-left: 450px;
+  margin-left: 400px;
   text-shadow: #181818 2px 0 10px;
   display: block;
 }
@@ -40,7 +40,7 @@ body {
   color: rgb(0, 0, 0);
   position: absolute;
   margin-top: 100px;
-  margin-left: 450px;
+  margin-left: 400px;
   text-shadow: #181818 2px 0 10px;
 }
 
